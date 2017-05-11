@@ -57,4 +57,4 @@ Norman Gomes is looking for a health insurance quote using this application.
 - Commit code to git and raise a pull request
 - In case you have questions or need help please reach out to the reviewers in the room
 
-HAPPY CODING :)
+**HAPPY CODING :)**
