@@ -35,6 +35,7 @@ Norman Gomes is looking for a health insurance quote using this application.
   - Bad habits (Smoking | Consumption of alcohol | Drugs) -> Increase 3% for every bad habit
 
 
+
 # WHAT DO YOU NEED TO DO?
 
 - You have the following tools to solve this problem
@@ -55,3 +56,5 @@ Norman Gomes is looking for a health insurance quote using this application.
 - Setup and run the application
 - Commit code to git and raise a pull request
 - In case you have questions or need help please reach out to the reviewers in the room
+
+HAPPY CODING :)
