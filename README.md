@@ -36,7 +36,25 @@ Norman Gomes is looking for a health insurance quote using this application.
 
 
 
-# WHAT DO YOU NEED TO DO?
+# WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS OFFLINE?
+
+- You could use the following tools to solve this problem
+    - IDE: Any IDE 
+    - Java 8
+    - Tomcat
+    - JBoss
+    - Git
+    - My SQL
+    - Postgre SQL
+    - Sublime Text
+- You have to fork this project (create a git lab ID in case you do not have one)
+- Keep adding code that you write in git
+- Unit test the application
+- Setup and run the application
+- Commit code to git and raise a pull request
+- In case you have questions feel free to reach out
+
+# WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS AT THE TEST LOCATION?
 
 - You have the following tools to solve this problem
   - OS: Windows (installed in a virtual machine) | Ubuntu installed on your host laptop
