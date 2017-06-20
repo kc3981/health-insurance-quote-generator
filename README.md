@@ -47,7 +47,7 @@ Norman Gomes is looking for a health insurance quote using this application.
     - My SQL
     - Postgre SQL
     - Sublime Text
-- You have to fork this project (create a git lab ID in case you do not have one)
+- You have to clone this project (create a git lab ID in case you do not have one)
 - Keep adding code that you write in git
 - Unit test the application
 - Setup and run the application
@@ -68,7 +68,7 @@ Norman Gomes is looking for a health insurance quote using this application.
     - My SQL
     - Postgre SQL
     - Sublime Text
-- You have to fork this project (create a git lab ID in case you do not have one)
+- You have to clone this project (create a git lab ID in case you do not have one)
 - Keep adding code that you write in git
 - Unit test the application
 - Setup and run the application
