@@ -51,7 +51,8 @@ Norman Gomes is looking for a health insurance quote using this application.
 - Keep adding code that you write in git
 - Unit test the application
 - Setup and run the application
-- Commit code to git and raise a pull request
+- Create your own GitLab repo. Make it open acecss
+- Commit code to your GitLab repo and share the URL
 - In case you have questions feel free to reach out
 
 # WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS AT THE TEST LOCATION?
@@ -72,7 +73,8 @@ Norman Gomes is looking for a health insurance quote using this application.
 - Keep adding code that you write in git
 - Unit test the application
 - Setup and run the application
-- Commit code to git and raise a pull request
+- Create your own GitLab repo. Make it open acecss
+- Commit code to your GitLab repo and share the URL
 - In case you have questions or need help please reach out to the reviewers in the room
 
 **HAPPY CODING :)**
