@@ -47,12 +47,13 @@ Norman Gomes is looking for a health insurance quote using this application.
     - My SQL
     - Postgre SQL
     - Sublime Text
-- You have to clone this project (create a git lab ID in case you do not have one)
+- Create a GitLab ID in case you do not have one
+- Create your own GitLab repo. Make it open acecss
 - Keep adding code that you write in git
 - Unit test the application
 - Setup and run the application
-- Create your own GitLab repo. Make it open acecss
 - Commit code to your GitLab repo and share the URL
+- Add @kuldip-emids to the repo as developer
 - In case you have questions feel free to reach out
 
 # WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS AT THE TEST LOCATION?
