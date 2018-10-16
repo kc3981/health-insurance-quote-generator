@@ -38,7 +38,7 @@ Saraswati John is looking for a health insurance quote using this application.
 
 
 
-# WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS OFFLINE?
+# SOLVING THE PROBLEM
 
 - You could use the following tools to solve this problem
     - IDE: Any IDE 
@@ -49,35 +49,12 @@ Saraswati John is looking for a health insurance quote using this application.
     - My SQL
     - Postgre SQL
     - Sublime Text
-- Create a GitLab ID in case you do not have one
-- Create your own GitLab repo. Make it open acecss
+- Fork this repo
+- Follow TDD. Raise the first PR with failing tests
 - Keep adding code that you write in git
-- Unit test the application
 - Setup and run the application
-- Commit code to your GitLab repo and share the URL
-- Add @kc3981 to the repo as developer
-- In case you have questions feel free to reach out
+- Raise PR with implementation after the test PR has been approved
+- [Raising PR from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-# WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS AT THE TEST LOCATION?
 
-- You have the following tools to solve this problem
-  - OS: Windows (installed in a virtual machine) | Ubuntu installed on your host laptop
-  - Internet connection: You will be able to access the internet from the browser in Ubuntu
-  - We have provided the following on the Windows machine. You are free to download and use any other tool that you are more comfortable with after a dicussion with any of the reviewers in the room
-    - IDE: Eclipse 
-    - Java 8
-    - Tomcat
-    - JBoss
-    - Git
-    - My SQL
-    - Postgre SQL
-    - Sublime Text
-- You have to clone this project (create a git lab ID in case you do not have one)
-- Keep adding code that you write in git
-- Unit test the application
-- Setup and run the application
-- Create your own GitLab repo. Make it open acecss
-- Commit code to your GitLab repo and share the URL
-- In case you have questions or need help please reach out to the reviewers in the room
-
-**HAPPY CODING :)**
+**HAPPY TEST DRIVING :)**
