@@ -1,17 +1,19 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # THE PROBLEM
 
-Norman Gomes is looking for a health insurance quote using this application.
+Saraswati John is looking for a health insurance quote using this application.
 
 ## INPUT
 
-- Name: Norman Gomes
-- Gender: Male
-- Age: 34 years
+- Name: Saraswati John
+- Gender: Female
+- Age: 33 years
 - Current health:
   - Hypertension: No
   - Blood pressure: No
   - Blood sugar: No
-  - Overweight: Yes
+  - Overweight: No
 - Habits:
   - Smoking: No
   - Alcohol: Yes
@@ -21,7 +23,7 @@ Norman Gomes is looking for a health insurance quote using this application.
 
 ## OUTPUT
 
-- Health Insurance Premium for Mr. Gomes: Rs. 6,856
+- Health Insurance Premium for Ms. John: Rs. 6,856
 
 
 ## BUSINESS RULES
@@ -53,7 +55,7 @@ Norman Gomes is looking for a health insurance quote using this application.
 - Unit test the application
 - Setup and run the application
 - Commit code to your GitLab repo and share the URL
-- Add @kuldip-emids to the repo as developer
+- Add @kc3981 to the repo as developer
 - In case you have questions feel free to reach out
 
 # WHAT DO YOU NEED TO DO IF YOU ARE DOING THIS AT THE TEST LOCATION?
